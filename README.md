@@ -5,7 +5,7 @@ sencha-mobile
 2) A webkit enabled browser (Chrome, Safari etc.) is required for running this app. Alternatively, this can be opened through iPhone/iPad simulators and/or Androird emulators
 	
 3) Running this application:
-	- Right click on indexExample.hrml and open with Chrome (or) Safari
+	- Right click on prototype.hrml and open with Chrome (or) Safari
 	- Navigating through different sections can be done through top and bottom navigation tools
 	- A remote webservice mashup has been integrated. This is to simulate a real-time requirement to search for HIV/STD testing  centers by geo location
 	
@@ -18,7 +18,7 @@ sencha-mobile
 		
 5) Run this app on iOS Simulator:
 	- Assuming Mac and Xcode + simualtor packages are installed
-	- Right click on indexExample.html and open with iOS Simulator
+	- Right click on prototype.html and open with iOS Simulator
 	- App will load on safari browser in iPhone/iPad simulator
 	- Bookmark the page on iPhone/iPad to add it to desktop
 	- HSCC logo will appear. Clicking on the logo will then open it as native app for testing
