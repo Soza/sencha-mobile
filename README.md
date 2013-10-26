@@ -1,33 +1,23 @@
 sencha-mobile
 =============
-1) This prototype application requires the following resources:
-	- app.css
-	- app.js
-	- examples (folder)
-	- images
-	- indexExample.html
-	- plugins (folder)
-	- resources (folder)
-	- sench-touch-debug.js
+1) This is a prototype application developed as part of Carnegie Mellon course project. The project is developed based on Sencha JS Touch library and patterns. This mobile application is developed with the hope to provide necessary support and guidance to the people who are getting exposed to terminal diseases such as HIV/STD. Intial objective is to facilitae a fully integrated knowledge base to help create awareness for Pittsburgh communities. 
 
-2) A webkit enabled browser is required for running this app in action.
-	Exmaples: Chrome (or) Safari
-
-3) Run this app on browser:
+2) A webkit enabled browser (Chrome, Safari etc.) is required for running this app. Alternatively, this can be opened through iPhone/iPad simulators and/or Androird emulators
+	
+3) Running this application:
 	- Right click on indexExample.hrml and open with Chrome (or) Safari
-	- App will laod with all mock data
-	- Navigating through different sections can be done through top and bottom tool bars
-	- A remote webservice mock up for testing centers can be viewed on map layer and also on list module
+	- Navigating through different sections can be done through top and bottom navigation tools
+	- A remote webservice mashup has been integrated. This is to simulate a real-time requirement to search for HIV/STD testing  centers by geo location
 	
 4) Debugging this app on browser:
 	- If for some reason, the app doesn't load (assuming it is opened on a webkit enabled browser), open the browser debugger window to see for errors and debug from there
 	- Windows:
 		- F12 opens up debug window for chrome
-	- MAc:
+	- OSX:
 		- Command + Option + I opens up debug window for chrome
 		
 5) Run this app on iOS Simulator:
-	- Assuming it is operated on Mac and Xcode + simualtor packages are installed
+	- Assuming Mac and Xcode + simualtor packages are installed
 	- Right click on indexExample.html and open with iOS Simulator
 	- App will load on safari browser in iPhone/iPad simulator
 	- Bookmark the page on iPhone/iPad to add it to desktop
